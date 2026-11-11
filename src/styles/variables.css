@@ -1,0 +1,55 @@
+
+/* ================================
+   PORTFOLIO DESIGN VARIABLES
+================================ */
+
+:root {
+  /* Background Colors */
+  --bg-primary: #090b10;
+  --bg-secondary: #10141d;
+  --bg-card: #151b27;
+  --bg-card-hover: #1b2332;
+
+  /* Text Colors */
+  --text-primary: #f5f7fc;
+  --text-secondary: #a3adbd;
+  --text-muted: #737f91;
+
+  /* Accent Colors */
+  --accent-primary: #a78bfa;
+  --accent-secondary: #60a5fa;
+  --accent-success: #4ade80;
+
+  /* Border Colors */
+  --border-color: rgba(255, 255, 255, 0.09);
+  --border-hover: rgba(167, 139, 250, 0.5);
+
+  /* Gradients */
+  --gradient-primary: linear-gradient(
+    135deg,
+    #a78bfa,
+    #60a5fa
+  );
+
+  /* Shadows */
+  --shadow-card: 0 12px 35px rgba(0, 0, 0, 0.25);
+  --shadow-accent: 0 8px 25px rgba(167, 139, 250, 0.15);
+
+  /* Border Radius */
+  --radius-small: 8px;
+  --radius-medium: 14px;
+  --radius-large: 22px;
+  --radius-pill: 50px;
+
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.5s ease;
+
+  /* Layout */
+  --container-width: 1120px;
+  --navbar-height: 80px;
+
+  /* Typography */
+  --font-primary: "Inter", "Segoe UI", sans-serif;
+}
