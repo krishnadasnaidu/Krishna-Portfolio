@@ -44,10 +44,6 @@ const Education = () => {
                     <span className="education-duration">
                       {item.duration}
                     </span>
-
-                    <span className="education-score">
-                      {item.score}
-                    </span>
                   </div>
 
                   <h3>{item.degree}</h3>
